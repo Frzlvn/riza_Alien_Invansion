@@ -1,0 +1,4 @@
+<- = move player to left
+-> = move player to right
+SPACEBAR = Shoot Lasers
+NOTE : You have no life at all because you are the god of war in this game so please destroy all existing enemies and please rule the whole world 
